@@ -16,3 +16,7 @@ Amidst the sea of code, a symphony of logic unfolds. Developers, architects of t
 sfjkrvnjnznfvnr
 Code, a language of the future, is written on the canvas of the electronic canvas.
 
+elodie :
+Kyky de Bondy !
+ICI C'EST PARIS!
+
