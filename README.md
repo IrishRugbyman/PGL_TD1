@@ -1,3 +1,4 @@
+
 # PGL_TD1
 As the binary stars illuminate the path, we navigate the corridors of endless possibilities. Functions resonate like sonnets, composing the epic tale of technology.
 salut
@@ -9,6 +10,7 @@ hellooooooooo
 In the digital tapestry, algorithms dance, orchestrating a ballet of bits. Bugs, elusive creatures, are hunted by fearless debuggers wielding the sword of precision.
 
 esilv
+<<<<<<< HEAD
 jajajjajaajjajaj
 
 Amidst the sea of code, a symphony of logic unfolds. Developers, architects of the virtual realms, sculpt with keystrokes.
@@ -19,4 +21,7 @@ Code, a language of the future, is written on the canvas of the electronic canva
 elodie :
 Kyky de Bondy !
 ICI C'EST PARIS!
+
+Wyldine :
+BOnjour c'est Wyldine qui a écrit cette phrase :)
 
