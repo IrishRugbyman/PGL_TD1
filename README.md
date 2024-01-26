@@ -1,7 +1,5 @@
 # PGL_TD1
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-As the binary stars illuminate the path, we navigate the corridors of endless possibilities. Functions resonate like sonnets, composing the epic tale of technology.
-
+cdhddddddddddddddddddddddddddddddddddddddddddddddddddddddddddAs the binary stars illuminate the path, we navigate the corridors of endless possibilities. Functions resonate like sonnets, composing the epic tale of technology.
 Bytes and bits entwine, creating a mosaic of innovation. The command-line echoes with the heartbeat of progress, a pulsating rhythm in the cybernetic space.
 
 hellooooooooo
