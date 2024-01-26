@@ -1,5 +1,6 @@
-
 # PGL_TD1
+LAMY PLATEL NZIENGUI-NZIENGUI LAMBOLEZ
+
 As the binary stars illuminate the path, we navigate the corridors of endless possibilities. Functions resonate like sonnets, composing the epic tale of technology.
 salut
 As the binary stars illuminate the path, we navigate the corridors of endless possibilities. Functions resonate like sonnets, composing the epic tale of technology.
